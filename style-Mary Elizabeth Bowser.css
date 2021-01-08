@@ -1,0 +1,43 @@
+body {
+background-color: Black;
+font-family: Comic Sans MS;
+text-align: center;
+border: solid 10px grey;
+font-size: 20px;
+}
+.navbar {
+overflow: hidden;
+margin: 0px 0vw;
+bottom:12px;
+color:#FFFFFF;
+}
+.navbar a {
+float: left;
+padding:10px;
+color: Blue;
+text-decoration: none;
+font-size: 23px;
+width: 18%; /* Four links of equal widths */
+text-align: center;
+}
+.navbar a:hover {
+color: Grey;
+}
+.navbar a.active {
+color: White;
+}
+.about_head {
+color: blue;
+}
+.paragraph{
+padding: 10px;
+text-align: left;
+color: blue;
+}
+
+.about_Bowser_image{
+padding: 4px;
+border: 10px;
+border-style: inset;
+border-color: #C0C0C0
+}
